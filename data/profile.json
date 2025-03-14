@@ -41,30 +41,29 @@
     ]
   },
   "languages": [
-  "Português BR (Nativo)",
-  "Inglês (intermediário)"
-],
-"portfolio": [
-  {
-    "name": "Pagina Full Css3",
-    "url": "https://github.com/VandyckLN/PaginaFullCss3y",
-    "github": true
-  },
-  {
-    "name": "Pagina Youtube com css e Html",
-    "url": "https://github.com/VandyckLN/YoutubePageCopy",
-    "github": true
-  },
-  {
-    "name": "Land Page para personal trainer",
-    "url": "https://github.com/VandyckLN/MyfirtLandPage",
-    "github": true
-  },
-  {
-    "name": "Calculadora com react",
-    "url": "https://github.com/VandyckLN/React-Calculator",
-    "github": true
-  }
-]
- 
+    "Português BR (Nativo)",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Pagina Full Css3",
+      "url": "https://github.com/VandyckLN/PaginaFullCss3y",
+      "github": true
+    },
+    {
+      "name": "Pagina Youtube com css e Html",
+      "url": "https://github.com/VandyckLN/YoutubePageCopy",
+      "github": true
+    },
+    {
+      "name": "Land Page para personal trainer",
+      "url": "https://github.com/VandyckLN/MyfirtLandPage",
+      "github": true
+    },
+    {
+      "name": "Calculadora com react",
+      "url": "https://github.com/VandyckLN/React-Calculator",
+      "github": true
+    }
+  ]
 }
